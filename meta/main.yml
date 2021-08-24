@@ -1,0 +1,16 @@
+galaxy_info:
+  role_name: oh_my_zsh_colors
+  author: Kerjox
+  description: Install colorls on oh_my_zsh
+  license: license (GPL-2.0-or-later, MIT, etc)
+
+  min_ansible_version: 2.9
+
+  galaxy_tags: 
+    - oh_my_zsh_colorls
+    - oh_my_zsh
+    - zsh
+    - colorls
+    - color
+
+dependencies: []

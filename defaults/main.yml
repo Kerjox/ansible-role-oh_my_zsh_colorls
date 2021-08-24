@@ -1,0 +1,4 @@
+---
+# defaults file for oh_my_zsh_colorls
+users:
+  username: ansible-test
