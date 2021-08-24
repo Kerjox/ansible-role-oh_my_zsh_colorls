@@ -1,6 +1,8 @@
 Ansible Role: oh_my_zsh_colorls
 ===============================
 
+[![Ansible Galaxy](https://img.shields.io/ansible/role/56035?style=flat-square)](https://galaxy.ansible.com/kerjox/oh_my_zsh_colors)
+
 Role to download, install and configure [Colorls](https://github.com/athityakumar/colorls).
 
 Requirements
